@@ -18,14 +18,17 @@
 
 I'm a **Computer Science major** at Arizona State University with a perfect 4.0 GPA, passionate about creating innovative solutions through technology. Currently serving as a **Teaching Assistant** and **VR Pod Operator** while pursuing my Bachelor's degree (Expected Dec 2026).
 
-🏆 **Hackathon Champion** - Winner of multiple prestigious competitions including OpenAI Challenge, ASU AI Challenge, and PIA Hacks
+🏆 **Hackathon Champion** - Winner of multiple prestigious competitions, including OpenAI Challenge, ASU AI Challenge, and PIA Hacks
 
 🎓 **Academic Excellence** - Dean's List recipient for 5 consecutive semesters and scholarship awardee
 
-💼 **Current Roles:**
-- 🧑‍🏫 CSE 360 Teaching Assistant (Software Engineering)
-- 🥽 Virtual Reality Pod Operator (serving 7,000+ students weekly)
-- 💻 IT Intern at City of Phoenix Water Department
+💼 **Experience:**
+- CSE 360 Teaching Assistant (Software Engineering)
+- Principled Innovation Academy Intern
+- Appropriations Chair - Travel and Professional Development 
+- Virtual Reality Pod Operator (serving 7,000+ students weekly)
+- IT Intern at City of Phoenix Water Department
+- ASU 101- Section Leader
 
 ---
 
@@ -90,6 +93,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_Dean's_List-5_Semesters-brightgreen?style=for-the-badge&labelColor=065f46" alt="Dean's List"/>
   <img src="https://img.shields.io/badge/💰_Scholarship-New_American_University-blue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
+  <img src="https://img.shields.io/badge/💰_Scholarship-Garmin_Scholarship_Fund-darkblue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
   <img src="https://img.shields.io/badge/🏛️_Government-Appropriations_Chair-purple?style=for-the-badge&labelColor=7c3aed" alt="Student Government"/>
 </div>
 
@@ -97,26 +101,42 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ## 💻 Featured Projects
 
-### 🤖 AI Challenge: Ethical Policy Simulation Game
+###  AI Challenge: Ethical Policy Simulation Game
 **Tech Stack:** React.js, Node.js, Tailwind CSS, Web Speech API
-- 🎯 Designed browser-based simulation for refugee education policy decisions
-- 🗣️ Integrated multimodal interaction (voice/text) for 200+ users
-- 📧 Automated personalized evaluation reports for 500+ users
-- 🤝 Enhanced civic education through AI agent interactions
+-  Designed browser-based simulation for refugee education policy decisions
+-  Integrated multimodal interaction (voice/text) for 200+ users
+-  Automated personalised evaluation reports for 500+ users
+-  Enhanced civic education through AI agent interactions
 
-### 🏢 Asset Management System
+###  Asset Management System
 **Tech Stack:** C#, SQL, MAMP, SVN, Windows NT
-- 👥 Role-based desktop application supporting 150+ users
-- ⚡ Decreased processing time by 40% with streamlined workflows
-- 📊 Real-time device tracking and budget monitoring
-- 📨 Automated email alerts for 500+ weekly requests
+-  Role-based desktop application supporting 150+ users
+-  Decreased processing time by 40% with streamlined workflows
+-  Real-time device tracking and budget monitoring
+-  Automated email alerts for 500+ weekly requests
 
-### 🥽 VR Content Development
-**Current Role at ASU**
-- 🎨 Creating immersive VR content for 7,000+ students weekly
-- 🔧 Managing and maintaining 6 haptic pods (174 total stations)
-- 📊 Analyzing user data from 10,000+ interactions
-- 🎓 Supporting STEM and humanities education through VR
+## Current Roles
+
+###  VR Content Development
+-  Creating immersive VR content for 7,000+ students weekly
+-  Managing and maintaining 6 haptic pods (174 total stations)
+-  Analysing user data from 10,000+ interactions
+-  Supporting STEM and humanities education through VR
+
+### CSE 360 - Teaching Assistant
+- Design and develop 10+ lectures, quizzes, and exams for Software Engineering courses with 100+ students
+- Manage the Ed Discussion platform to support students by answering questions and promoting peer engagement
+- Respond to 100+ student emails with detailed guidance on lab tasks and safety protocols
+
+### Principled Innovation Academy Intern
+- Fine-tuned large language models on healthcare datasets to enhance response accuracy and contextual relevance.
+- Led data preprocessing tasks including dataset curation, cleaning, and tokenization for model training.
+- Ran and evaluated model training experiments using transfer learning techniques and prompt optimization.
+
+### Appropriations Chair - Travel and Professional Development 
+- Chair the USG-T Travel & Professional Development Funding Subcommittee, overseeing grant applications for student career and academic advancement
+- Ensure compliance with fiscal policies and university regulations, collaborating with the Business Office and Finance Director
+- Lead committee meetings and coordinate with applicants to maximize impact within a $2,000 per student cap
 
 ---
 
@@ -148,11 +168,11 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ## 🎯 Current Focus
 
-- 🔬 **Research:** Exploring AI applications in education and policy simulation
-- 🏗️ **Development:** Building scalable web applications with modern frameworks
-- 🎓 **Teaching:** Mentoring 100+ students in Software Engineering concepts
-- ☁️ **Cloud Computing:** Advancing skills in AWS and GCP technologies
-- 🤝 **Leadership:** Serving as Appropriations Chair in Student Government
+-  **Research:** Exploring AI applications in education and policy simulation
+-  **Development:** Building scalable web applications with modern frameworks
+-  **Teaching:** Mentoring 100+ students in Software Engineering concepts
+-  **Cloud Computing:** Advancing skills in AWS and GCP technologies
+-  **Leadership:** Serving as Appropriations Chair in Student Government
 
 ---
 
