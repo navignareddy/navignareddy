@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,1&height=280&section=header&text=Navigna%20Reddy%20Gangumalla&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Summer%20Intern%20@%20PI%20Academy%20%7C%20B.S.%20CS%20+%20Business%20Minor%20@%20ASU&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,1&height=280&section=header&text=Navigna%20Reddy%20Gangumalla&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Summer%20Intern%20@%20PI%20Academy%20%7C%20B.S.%20CS%20+%20Business%20Minor%20@%20ASU&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 
@@ -170,14 +170,23 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 </div>
 
 ---
-
 ## 🎯 Current Focus
 
--  **Research:** Exploring AI applications in education and policy simulation
--  **Development:** Building scalable web applications with modern frameworks
--  **Teaching:** Mentoring 100+ students in Software Engineering concepts
--  **Cloud Computing:** Advancing skills in AWS and GCP technologies
--  **Leadership:** Serving as Appropriations Chair in Student Government
+- **Research**: Exploring AI applications in education and policy simulation
+- **Development**: Building scalable full-stack web applications using modern frameworks
+- **Teaching**: Mentoring 100+ students in Software Engineering through TA roles
+- **Cloud Computing**: Enhancing expertise in AWS and GCP services
+- **Leadership**: Leading as Appropriations Chair in Student Government at ASU
+
+---
+
+## 🚀 Career Interests
+
+- **Software Engineering (SWE)**
+- **Data Analysis & Visualization**
+- **Full Stack Development**
+- **Cloud & DevOps Engineering**
+- **AI/ML Research in Education & Public Policy**
 
 ---
 
@@ -227,7 +236,8 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 </div>
 
 <div align="center">
-  <i>⭐ "Innovation distinguishes between a leader and a follower." - Steve Jobs</i>
+  <i>⭐ "The best way to predict the future is to invent it."
+— Alan Kay, Computer Scientist & Pioneer of Object-Oriented Programming</i>
 </div>
 
 <div align="center">
