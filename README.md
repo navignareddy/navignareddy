@@ -1,4 +1,9 @@
-# Hi there! 👋 I'm Navigna Reddy Gangumalla
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,1&height=280&section=header&text=Navigna%20Reddy%20Gangumalla&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Summer%20Intern%20@%20PI%20Academy%20%7C%20B.S.%20CS%20+%20Business%20Minor%20@%20ASU&descAlignY=60&descSize=20" width="100%"/>
+</div>
+
+
+
 
 <div align="center">
   
