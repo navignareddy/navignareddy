@@ -12,22 +12,22 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Student-Arizona_State_University-gold?style=for-the-badge&labelColor=8B0000" alt="ASU Student"/>
-  <img src="https://img.shields.io/badge/📍_Location-Phoenix,_AZ-blue?style=for-the-badge&labelColor=1e3a8a" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎯_GPA-4.0-brightgreen?style=for-the-badge&labelColor=065f46" alt="GPA"/>
+  <img src="https://img.shields.io/badge/_Student-Arizona_State_University-gold?style=for-the-badge&labelColor=8B0000" alt="ASU Student"/>
+  <img src="https://img.shields.io/badge/_Location-Phoenix,_AZ-blue?style=for-the-badge&labelColor=1e3a8a" alt="Location"/>
+  <img src="https://img.shields.io/badge/_GPA-4.0-brightgreen?style=for-the-badge&labelColor=065f46" alt="GPA"/>
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Computer Science major** at Arizona State University with a perfect 4.0 GPA, passionate about creating innovative solutions through technology. Currently serving as a **Teaching Assistant** and **VR Pod Operator** while pursuing my Bachelor's degree (Expected Dec 2026).
 
-🏆 **Hackathon Champion** - Winner of multiple prestigious competitions, including OpenAI Challenge, ASU AI Challenge, and PIA Hacks
+ **Hackathon Champion** - Winner of multiple prestigious competitions, including OpenAI Challenge, ASU AI Challenge, and PIA Hacks
 
-🎓 **Academic Excellence** - Dean's List recipient for 5 consecutive semesters and scholarship awardee
+ **Academic Excellence** - Dean's List recipient for 5 consecutive semesters and scholarship awardee
 
-💼 **Experience:**
+ **Experience:**
 - CSE 360 Teaching Assistant (Software Engineering)
 - Principled Innovation Academy Intern
 - Appropriations Chair - Travel and Professional Development 
@@ -37,7 +37,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### Programming Languages
 <div align="center">
@@ -74,7 +74,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 🏆 Featured Achievements
+##  Featured Achievements
 
 <div align="center">
   <table>
@@ -96,19 +96,19 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_Dean's_List-5_Semesters-brightgreen?style=for-the-badge&labelColor=065f46" alt="Dean's List"/>
-  <img src="https://img.shields.io/badge/💰_Scholarship-New_American_University-blue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
-  <img src="https://img.shields.io/badge/💰_Scholarship-Garmin_Scholarship_Fund-darkblue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
-  <img src="https://img.shields.io/badge/🏛️_Government-Appropriations_Chair-purple?style=for-the-badge&labelColor=7c3aed" alt="Student Government"/>
+  <img src="https://img.shields.io/badge/_Dean's_List-5_Semesters-brightgreen?style=for-the-badge&labelColor=065f46" alt="Dean's List"/>
+  <img src="https://img.shields.io/badge/_Scholarship-New_American_University-blue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
+  <img src="https://img.shields.io/badge/_Scholarship-Garmin_Scholarship_Fund-darkblue?style=for-the-badge&labelColor=1e40af" alt="Scholarship"/>
+  <img src="https://img.shields.io/badge/_Government-Appropriations_Chair-purple?style=for-the-badge&labelColor=7c3aed" alt="Student Government"/>
 </div>
 
 ---
 
-## 💻 Featured Projects
+##  Featured Projects
 
 ###  AI Challenge: Ethical Policy Simulation Game
 **Tech Stack:** React.js, Node.js, Tailwind CSS, Web Speech API
--  Designed browser-based simulation for refugee education policy decisions
+-  Designed a browser-based simulation for refugee education policy decisions
 -  Integrated multimodal interaction (voice/text) for 200+ users
 -  Automated personalised evaluation reports for 500+ users
 -  Enhanced civic education through AI agent interactions
@@ -145,7 +145,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA"/>
@@ -154,7 +154,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navignareddy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -170,7 +170,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 </div>
 
 ---
-## 🎯 Current Focus
+##  Current Focus
 
 - **Research**: Exploring AI applications in education and policy simulation
 - **Development**: Building scalable full-stack web applications using modern frameworks
@@ -180,7 +180,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 🚀 Career Interests
+##  Career Interests
 
 - **Software Engineering (SWE)**
 - **Data Analysis & Visualization**
@@ -190,23 +190,23 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 🌟 Leadership & Involvement
+##  Leadership & Involvement
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <strong>🏛️ Student Government</strong><br>
+        <strong> Student Government</strong><br>
         Appropriations Chair<br>
         (2025-2026)
       </td>
       <td align="center">
-        <strong>🌍 International Communities</strong><br>
+        <strong> International Communities</strong><br>
         Secretary & Treasurer<br>
         Officer of the Year Award
       </td>
       <td align="center">
-        <strong>🏆 Rotary Recognition</strong><br>
+        <strong> Rotary Recognition</strong><br>
         BAL PURASKAR AWARD<br>
         Rotary Club International
       </td>
@@ -216,7 +216,7 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
   
@@ -231,8 +231,8 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=navignareddy&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/💡-Always_Learning-brightgreen?style=for-the-badge" alt="Always Learning"/>
-  <img src="https://img.shields.io/badge/🚀-Open_to_Opportunities-blue?style=for-the-badge" alt="Open to Opportunities"/>
+  <img src="https://img.shields.io/badge/-Always_Learning-brightgreen?style=for-the-badge" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/-Open_to_Opportunities-blue?style=for-the-badge" alt="Open to Opportunities"/>
 </div>
 
 <div align="center">
