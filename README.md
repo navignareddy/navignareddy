@@ -236,8 +236,8 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 </div>
 
 <div align="center">
-  <i>⭐ "The best way to predict the future is to invent it."
-— Alan Kay, Computer Scientist & Pioneer of Object-Oriented Programming</i>
+  <i>"The best way to predict the future is to invent it."
+— Alan Kay</i>
 </div>
 
 <div align="center">
