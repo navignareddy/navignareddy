@@ -161,9 +161,6 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navignareddy&layout=compact&langs_count=8&theme=react"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navignareddy&theme=react&hide_border=false" alt="GitHub Streak"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navignareddy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
