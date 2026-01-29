@@ -25,15 +25,15 @@ I'm a **Computer Science major** at Arizona State University with a perfect 4.0 
 
  **Hackathon Champion** - Winner of multiple prestigious competitions, including OpenAI Challenge, ASU AI Challenge, and PIA Hacks
 
- **Academic Excellence** - Dean's List recipient for 5 consecutive semesters and scholarship awardee
+ **Academic Excellence** - Dean's List recipient for 6 consecutive semesters and scholarship awardee
 
  **Experience:**
-- CSE 360 Teaching Assistant (Software Engineering)
-- Principled Innovation Academy Intern
+- Software Engineer Intern at Evolve HealthTech Solutions
+- AI Research Intern at Principled Innovation Academy 
 - Appropriations Chair - Travel and Professional Development 
-- Virtual Reality Pod Operator (serving 7,000+ students weekly)
-- IT Intern at City of Phoenix Water Department
-- ASU 101- Section Leader
+- Virtual Reality Pod Operator (serving 7,500+ students weekly)
+- Software Developer Intern at City of Phoenix Water Department
+- ASU 101 - Section Leader
 
 ---
 
